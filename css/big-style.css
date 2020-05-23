@@ -1,0 +1,26 @@
+/* se a tela tiver pelo menos 400px vai carregar estes estilos */
+
+body {
+    font-size: 14px;
+}
+
+.img-portfolio {
+    height: 360px;
+    width: 360px;
+}
+
+.portfolio {
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    flex-flow: row wrap;
+    align-items: center;
+    width: 80vw;
+    margin-left: 10vw;
+}
+
+.portfolio figure {
+    color: white;
+    margin: 10px 10px 10px 0;
+    text-align: center;
+}

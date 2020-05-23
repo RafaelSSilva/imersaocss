@@ -1,0 +1,21 @@
+ body {
+     font-family: Arial;
+     font-size: 9px;
+ }
+ 
+ .img-portfolio {
+     height: 180px;
+     width: 180px;
+ }
+ 
+ .portfolio {
+     align-items: center;
+     display: flex;
+     flex-direction: column;
+ }
+ 
+ .portfolio figure {
+     color: white;
+     margin: 10px 0 10px 0;
+     text-align: center;
+ }
